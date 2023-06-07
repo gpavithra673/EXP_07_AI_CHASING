@@ -111,9 +111,8 @@ Blackboard Value As Vector input.
 ### AI Sense Configuration:
 ![image](https://github.com/Aashima02/AI-Chasing/assets/93427086/8eecc9da-2e7f-42e9-b13c-9bdf3b70f5ef)
 
-
 ### Game Mode:
-![244051776-eb54159c-074e-4c0b-b987-164275fdea43](https://github.com/Aashima02/AI-Chasing/assets/93427086/ca34b75b-f144-445a-a689-8475ce1e0756)
+![Screenshot (57)](https://github.com/gpavithra673/EXP_07_AI_CHASING/assets/93427264/53b147eb-df2a-4db0-8d86-4b30ced164df)
 
 ## RESULT:
 
